@@ -2,24 +2,28 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 🧗‍♀️ 🥇 Rank 1 Social Climber
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: hd_selfie.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
+    <p>🏳️‍⚧️ She/Her/Hers</p>
+    <p>Lunar Isle, Gielinor</p>
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+**Hi, I'm Saffi Cauthon!**
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Hopefully, you've found this collection of webpages in goodwill. This website is for Runescape & Old School Runescape purposes.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am an avid RuneScape veteran who has played the game for 15+ years.
+
+I enjoy playing with an efficient mindset and learning about various game mechanics. You will often find me contributing to niche community projects and helping document anything I can get my hands on.
+
+Previously I helped administrate, develop, and  support projects such as <a href="https://templeosrs.com/">TempleOSRS.com</a> and <a href="https://discord.com/invite/FXPUrUp">The Volcanic Mine Discord Server</a>.
+
+I am part of several groups, such as <a href="https://twitter.com/Totus">Totus</a>, <a href="https://twitter.com/Omnia_Clan">Omnia</a>, and <a href="https://twitter.com/The__Summit">The Summit</a>.
