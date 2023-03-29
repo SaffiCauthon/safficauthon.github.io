@@ -149,7 +149,7 @@ giscus:
 disqus_shortname:  # none for now
 
 # External sources.
-# If you have blog posts published on medium.com or other exteranl sources,
+# If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources: # none for now
 
