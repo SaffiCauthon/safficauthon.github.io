@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://safficauthon.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://safficauthon.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-04-05T16:11:20+00:00</updated><id>https://safficauthon.github.io/feed.xml</id><title type="html">blank</title><subtitle>A website to display information to the public.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://safficauthon.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://safficauthon.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-04-05T17:56:25+00:00</updated><id>https://safficauthon.github.io/feed.xml</id><title type="html">blank</title><subtitle>A website to display information to the public.
 </subtitle><entry><title type="html">RuneLite Update - 05 April 2023</title><link href="https://safficauthon.github.io/blog/2023/runelite_update_2023_04_05/" rel="alternate" type="text/html" title="RuneLite Update - 05 April 2023" /><published>2023-04-05T14:05:00+00:00</published><updated>2023-04-05T14:05:00+00:00</updated><id>https://safficauthon.github.io/blog/2023/runelite_update_2023_04_05</id><content type="html" xml:base="https://safficauthon.github.io/blog/2023/runelite_update_2023_04_05/"><![CDATA[<h1 id="19133-update">1.9.13.3 Update</h1>
 <p>05 April 2023
 <em>NO OFFICIAL RELEASE BLOG - ALL MY DOCUMENTATION</em></p>
@@ -127,7 +127,7 @@
   <li>Rewards:
     <ul>
       <li>Giant Bronze Dagger (Not a fun weapon)</li>
-      <li>Eastfloor Spade (Fun weapon)</li>
+      <li>Eastfloor Spade</li>
       <li>Nest Hat</li>
     </ul>
   </li>
