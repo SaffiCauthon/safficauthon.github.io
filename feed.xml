@@ -1,5 +1,173 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://safficauthon.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://safficauthon.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-03-29T17:24:11+00:00</updated><id>https://safficauthon.github.io/feed.xml</id><title type="html">blank</title><subtitle>A website to display information to the public.
-</subtitle><entry><title type="html">RuneLite Update - 29 March 2023</title><link href="https://safficauthon.github.io/blog/2023/runelite_update_2023_03_29/" rel="alternate" type="text/html" title="RuneLite Update - 29 March 2023" /><published>2023-03-29T17:01:00+00:00</published><updated>2023-03-29T17:01:00+00:00</updated><id>https://safficauthon.github.io/blog/2023/runelite_update_2023_03_29</id><content type="html" xml:base="https://safficauthon.github.io/blog/2023/runelite_update_2023_03_29/"><![CDATA[<h1 id="19132-update">1.9.13.2 Update</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://safficauthon.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://safficauthon.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-04-05T16:11:20+00:00</updated><id>https://safficauthon.github.io/feed.xml</id><title type="html">blank</title><subtitle>A website to display information to the public.
+</subtitle><entry><title type="html">RuneLite Update - 05 April 2023</title><link href="https://safficauthon.github.io/blog/2023/runelite_update_2023_04_05/" rel="alternate" type="text/html" title="RuneLite Update - 05 April 2023" /><published>2023-04-05T14:05:00+00:00</published><updated>2023-04-05T14:05:00+00:00</updated><id>https://safficauthon.github.io/blog/2023/runelite_update_2023_04_05</id><content type="html" xml:base="https://safficauthon.github.io/blog/2023/runelite_update_2023_04_05/"><![CDATA[<h1 id="19133-update">1.9.13.3 Update</h1>
+<p>05 April 2023
+<em>NO OFFICIAL RELEASE BLOG - ALL MY DOCUMENTATION</em></p>
+
+<h2 id="updates"><a href="https://github.com/runelite/runelite/commits/master">Updates</a></h2>
+<ul>
+  <li><a href="https://github.com/runelite/runelite/commit/332802d">Last Commit</a></li>
+</ul>
+
+<h3 id="important-stuff">Important Stuff</h3>
+<ul>
+  <li>Cannon: Improve Meiyerditch Laboratories bloodveld spot</li>
+  <li>Kourend Library: Reset state on new game message</li>
+  <li>Timers: Fix liquid adrenaline timer being removed on death</li>
+</ul>
+
+<h3 id="other-changes">Other Changes</h3>
+<ul>
+  <li>ClientUI: Fix applying client bounds with j2d scaling</li>
+  <li>Config: Document RSProfileType ordinal stability</li>
+  <li>Config: Merge imported profiles correctly</li>
+  <li>GPU: Add clang-format config</li>
+  <li>GPU: Allow quoting filenames in #include</li>
+  <li>GPU: Clang-format shaders</li>
+  <li>GPU: Fix derotating jau computation for uvs</li>
+  <li>GPU: Fix derotating jau on cpu too</li>
+  <li>GPU: Fix initialization of uniform block index</li>
+  <li>HiScore Panel: Repaint entire panel on lookup</li>
+  <li>Infobox Manager: Rebuild infoboxes on profile change</li>
+  <li>Screen Markers: Reload markers on profile change</li>
+  <li>Screenshot: Fix screenshots with j2d scaling</li>
+  <li>Slayer: Add Revenants as an alternative for Ghosts task</li>
+  <li>
+    <p>Slayer: Match task names to enum</p>
+  </li>
+  <li>Update Item IDs to 2023-04-05-rev212</li>
+  <li>Update Item variations to 2023-04-05-rev212</li>
+  <li>Update NPC IDs to 2023-04-05-rev212</li>
+  <li>Update Object IDs to 2023-04-05-rev212</li>
+</ul>
+
+<h2 id="plugin-hub"><a href="https://github.com/runelite/plugin-hub/commits/master">Plugin Hub</a></h2>
+<ul>
+  <li><a href="https://github.com/runelite/plugin-hub/commit/3bd1997">Last Commit</a></li>
+</ul>
+
+<h3 id="important-stuff-1">Important Stuff</h3>
+<ul>
+  <li>Ultimate VM</li>
+</ul>
+
+<h3 id="other-additions">Other Additions</h3>
+<ul>
+  <li>Arceuus Timers</li>
+  <li>Crosshair Cursor</li>
+  <li>DM Watch</li>
+  <li>Duck Duck Goose</li>
+  <li>Global Chat</li>
+  <li>ImaDrum Money</li>
+  <li>Local Time</li>
+  <li>No Bad Alchs</li>
+  <li>Party Points</li>
+  <li>Player Pronouns</li>
+  <li>Random Hopper</li>
+  <li>Time Played</li>
+  <li>ToA Gear Check</li>
+  <li>Username Screenshot Plugin</li>
+  <li>Visual Ticks</li>
+  <li>Whos Gonna Poop</li>
+  <li>Wintertodt Solo Helper</li>
+</ul>
+
+<h3 id="bug-fixes--small-updates">Bug Fixes / Small updates:</h3>
+<ul>
+  <li>Action Progress</li>
+  <li>Blindfold</li>
+  <li>Bossing Info</li>
+  <li>Brewing</li>
+  <li>C-Engineer Completed</li>
+  <li>Corp FFA</li>
+  <li>Dink</li>
+  <li>Discord Notifications</li>
+  <li>Dude Where’s My Stuff?</li>
+  <li>Fight Caves Spawn Predictor</li>
+  <li>Gloopylite</li>
+  <li>Guild Spam Filter</li>
+  <li>Imbued Fart</li>
+  <li>Inferno Stats</li>
+  <li>Item Charges Improved</li>
+  <li>JebScape</li>
+  <li>Music Mask</li>
+  <li>Nex KC Helper</li>
+  <li>NPC Accessibility Tagger</li>
+  <li>Nylo Death Indicators</li>
+  <li>Party Panel</li>
+  <li>PM Highlight</li>
+  <li>Pyramid Plunder Counter</li>
+  <li>Random Hopper</li>
+  <li>Remaining Casts</li>
+  <li>The Gauntlet</li>
+  <li>Tile Packs</li>
+  <li>Time TRacking Reminder</li>
+  <li>TOB QoL</li>
+  <li>Vengeance Tracker</li>
+  <li>Visual Metronome</li>
+  <li>VoiceScape</li>
+  <li>Watson Clue Tracker</li>
+  <li>Weapon Animation Replacer</li>
+  <li>
+    <p>Weapon Charges</p>
+  </li>
+  <li>Bump to 1.9.13.3</li>
+</ul>
+
+<h3 id="removals">Removals</h3>
+<ul>
+  <li>N/A</li>
+</ul>]]></content><author><name></name></author><category term="runelite-update-tldr" /><category term="runelite," /><category term="tldr" /><summary type="html"><![CDATA[05 April 2023 RuneLite Update]]></summary></entry><entry><title type="html">OSRS Update - 05 April 2023</title><link href="https://safficauthon.github.io/blog/2023/osrs_game_update_2023_04_05/" rel="alternate" type="text/html" title="OSRS Update - 05 April 2023" /><published>2023-04-05T14:00:00+00:00</published><updated>2023-04-05T14:00:00+00:00</updated><id>https://safficauthon.github.io/blog/2023/osrs_game_update_2023_04_05</id><content type="html" xml:base="https://safficauthon.github.io/blog/2023/osrs_game_update_2023_04_05/"><![CDATA[<h1 id="easter-2023">Easter 2023</h1>
+<p><a href="https://secure.runescape.com/m=news/easter-2023?oldschool=1">29 March 2023</a>
+<em>This week we’re putting a spring in your step …</em></p>
+
+<h2 id="easter-event">Easter Event</h2>
+<ul>
+  <li>Location: East of Varrock’s Western bank</li>
+  <li><a href="https://oldschool.runescape.wiki/w/2023_Easter_event">OSRS Wiki Guide</a></li>
+  <li>Rewards:
+    <ul>
+      <li>Giant Bronze Dagger (Not a fun weapon)</li>
+      <li>Eastfloor Spade (Fun weapon)</li>
+      <li>Nest Hat</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="new-skill-pitches-poll">New Skill Pitches Poll!</h2>
+<ul>
+  <li>Poll is live</li>
+  <li><a href="https://secure.runescape.com/m=news/a=13/adding-a-new-skill-introducing-sailing-taming-and-shamanism-?oldschool=1">New Skill Pitches Detail Blog</a></li>
+</ul>
+
+<h2 id="bounty-hunter-rewards-beta-changes">Bounty Hunter Rewards Beta Changes</h2>
+<ul>
+  <li>Adjusted Ancient Warrior’s Equipment stats</li>
+  <li>Adjusted Dark Bow (i) special attack</li>
+  <li>Adjusted Abyssal Dagger (i) special attack</li>
+  <li>Added Ancient Warrior Weapons to beta</li>
+</ul>
+
+<h2 id="jagex-accounts-open-beta">Jagex Accounts Open Beta</h2>
+<ul>
+  <li>All accounts are now eligible for beta</li>
+  <li>Option is available in account settings</li>
+</ul>
+
+<h2 id="other-changes">Other Changes</h2>
+<ul>
+  <li>PvP World Rota -&gt; Period A</li>
+  <li>Added several hints for CTC III</li>
+  <li>Added toggle for Make-X interface for darts</li>
+  <li>Mobile client remembers the minimap’s zoom level</li>
+  <li>Soul Bearer now asks for the number of charges to add</li>
+  <li>Zealot Robes now work on Ensouled Heads</li>
+  <li>Fixed a ToA Warden freeze bug</li>
+  <li>Prayer recharge now resets the timer for drain</li>
+  <li>Fixed an LMS Occult Necklace bug</li>
+  <li>Added a check option to Revenant weapons in the bank interface</li>
+  <li>Added previously inaccessible music tracks to permanent DMM</li>
+  <li>Boss HiScore KC minimums of 30 are now 25</li>
+</ul>]]></content><author><name></name></author><category term="osrs-game-update-tldr" /><category term="osrs," /><category term="tldr" /><summary type="html"><![CDATA[05 April 2023 Game Update]]></summary></entry><entry><title type="html">RuneLite Update - 29 March 2023</title><link href="https://safficauthon.github.io/blog/2023/runelite_update_2023_03_29/" rel="alternate" type="text/html" title="RuneLite Update - 29 March 2023" /><published>2023-03-29T17:01:00+00:00</published><updated>2023-03-29T17:01:00+00:00</updated><id>https://safficauthon.github.io/blog/2023/runelite_update_2023_03_29</id><content type="html" xml:base="https://safficauthon.github.io/blog/2023/runelite_update_2023_03_29/"><![CDATA[<h1 id="19132-update">1.9.13.2 Update</h1>
 <p>29 March 2023
 <em>NO OFFICIAL RELEASE BLOG - ALL MY DOCUMENTATION</em></p>
 
@@ -643,132 +811,4 @@
 <h2 id="crack-the-clue-3">Crack the Clue 3</h2>
 <ul>
   <li>Added several hints because people gave up &amp; are bad</li>
-</ul>]]></content><author><name></name></author><category term="osrs-game-update-tldr" /><category term="osrs," /><category term="tldr" /><summary type="html"><![CDATA[09 March 2023 Game Update]]></summary></entry><entry><title type="html">OSRS Update - 01 March 2023</title><link href="https://safficauthon.github.io/blog/2023/osrs_game_update_2023_03_01/" rel="alternate" type="text/html" title="OSRS Update - 01 March 2023" /><published>2023-03-02T00:00:00+00:00</published><updated>2023-03-02T00:00:00+00:00</updated><id>https://safficauthon.github.io/blog/2023/osrs_game_update_2023_03_01</id><content type="html" xml:base="https://safficauthon.github.io/blog/2023/osrs_game_update_2023_03_01/"><![CDATA[<h1 id="theatre-of-blood-entry-mode-improvements">Theatre of Blood: Entry Mode Improvements</h1>
-<p><a href="https://secure.runescape.com/m=news/theatre-of-blood-entry-mode-improvements?oldschool=1">01 March 2023</a>
-<em>Raiders rejoice, tahe improvements we promised […]</em></p>
-
-<h2 id="theatre-of-blood-entry-mode-improvements-1">Theatre of Blood: Entry Mode Improvements</h2>
-<ul>
-  <li>Hitpoint scaling is more consistent</li>
-  <li>Number of attempts is now unlimited</li>
-  <li>Bandages received when the party wipes</li>
-  <li>Removed reclaim costs for TOB: Entry Mode</li>
-  <li>Increased normal rewards from 15-&gt;20%</li>
-  <li>Uniques are still not available in Entry Mode</li>
-  <li>First-Time user flow adjustments to teaching UI</li>
-</ul>
-
-<h2 id="poll-78-changes">Poll 78 Changes</h2>
-<ul>
-  <li>Increased ferment success rate to 100% @ 99</li>
-  <li>Increased GP you can store in POH chests</li>
-  <li>Swarms no longer cancel looting sarcophagus in PP</li>
-  <li>Automatic opt-out of XP from Puro-Puro
-    <ul>
-      <li>(Opt-in available)</li>
-    </ul>
-  </li>
-</ul>
-
-<h2 id="combat-achievements-phantom-muspah">Combat Achievements: Phantom Muspah</h2>
-<ul>
-  <li>Added 13 new combat achievements</li>
-</ul>
-
-<h2 id="other-changes">Other Changes</h2>
-<ul>
-  <li>PvP World Rota -&gt; Period B</li>
-  <li>Lootkey no longer be forced into inventory in a trade</li>
-  <li>Removed delay when depositing Paydirt in MLM</li>
-  <li>Slayer Helper now displays a wilderness streak</li>
-  <li>10th Anniversary Dragon Candle is now a fun weapon</li>
-  <li>Added Fossil Storage Crate at Volcanic Mine</li>
-  <li>Museum of OSRS expansion added to F2P</li>
-  <li>Birthday event rewards are now warm clothes</li>
-  <li>Sled wax animation now cancels on movement</li>
-  <li>Sins of the Father display is now correctly labeled</li>
-  <li>A Slayer Task streak of &gt;16k no longer gives max pts</li>
-  <li>Fixed typos in frog event and Warmhandz dialogue</li>
-  <li>Updated Falador Party Room banners</li>
-  <li>Facial animations added to birthday event dialogues</li>
-</ul>
-
-<h2 id="crack-the-clue-3">Crack the Clue 3</h2>
-<ul>
-  <li>Added several hints because people gave up &amp; are bad</li>
-</ul>]]></content><author><name></name></author><category term="osrs-game-update-tldr" /><category term="osrs," /><category term="tldr" /><summary type="html"><![CDATA[01 March 2023 Game Update]]></summary></entry><entry><title type="html">RuneLite Update - 01 March 2023</title><link href="https://safficauthon.github.io/blog/2023/runelite_update_2023_03_01/" rel="alternate" type="text/html" title="RuneLite Update - 01 March 2023" /><published>2023-03-01T15:00:00+00:00</published><updated>2023-03-01T15:00:00+00:00</updated><id>https://safficauthon.github.io/blog/2023/runelite_update_2023_03_01</id><content type="html" xml:base="https://safficauthon.github.io/blog/2023/runelite_update_2023_03_01/"><![CDATA[<h1 id="1911-update">1.9.11 Update</h1>
-<p>01 March 2023
-<em>NO OFFICIAL RELEASE BLOG - ALL MY DOCUMENTATION</em></p>
-
-<h2 id="updates"><a href="https://github.com/runelite/runelite/commits/master">Updates</a></h2>
-<ul>
-  <li><a href="https://github.com/runelite/runelite/commit/a6db2e1d8bd9b77ab6514bc6170a732ab265b7a4">Last Commit</a></li>
-</ul>
-
-<h3 id="important-stuff">Important Stuff</h3>
-<ul>
-  <li>Player Indicators: Add per-setting pvp option</li>
-</ul>
-
-<h3 id="other-changes">Other Changes</h3>
-<ul>
-  <li>Client: Specify utf8 encoding</li>
-  <li>Config Manager: Handle exceptions from scheduled sendConfig task</li>
-  <li>Drag And Drop Panel: Fix typo</li>
-  <li>Feed: Fix npe on shutdown</li>
-  <li>Grand Exchange: Save trades to rsprofile config</li>
-  <li>Player Indicators: Fix test for highlight own player</li>
-  <li>Run Energy: Fix parsing roe with 1000 charges</li>
-  <li>Skill Calc: Add true Blood Altar Runecrafting</li>
-  <li>Slayer: Fix !task location checking</li>
-  <li>Slayer: Fix test</li>
-  <li>Slayer: Remove profile migration</li>
-  <li>Slayer: Use task location enum for location verification</li>
-  <li>
-    <p>Slayer: Use vars for task tracking</p>
-  </li>
-  <li>Update Item IDs to 2023-03-01-rev211</li>
-  <li>Update Object IDs to 2023-03-01-rev211</li>
-</ul>
-
-<h2 id="plugin-hub"><a href="https://github.com/runelite/plugin-hub/commits/master">Plugin Hub</a></h2>
-<ul>
-  <li><a href="https://github.com/runelite/plugin-hub/commit/89d343121708826fe57dba89fd2ed847c27872f2">Last Commit</a></li>
-</ul>
-
-<h3 id="important-stuff-1">Important Stuff</h3>
-<ul>
-  <li>Guardians of the Rift Helper</li>
-</ul>
-
-<h3 id="other-additions">Other Additions</h3>
-<ul>
-  <li>Nievive</li>
-  <li>NPC Collection Log</li>
-  <li>Nylo Stats</li>
-  <li>Player Highlighter</li>
-  <li>Splitter</li>
-  <li>VoiceScape</li>
-</ul>
-
-<h3 id="bug-fixes--small-updates">Bug Fixes / Small updates:</h3>
-<ul>
-  <li>AFK GOTR</li>
-  <li>Clan Activity Tracker</li>
-  <li>Cox Additions</li>
-  <li>Customizable XP Drops</li>
-  <li>Dynamic Entity Hider</li>
-  <li>Loot Logger</li>
-  <li>Mahogany Homes</li>
-  <li>NPC Collection Log</li>
-  <li>Prop Hunt</li>
-  <li>Smart Chat Input Color</li>
-  <li>Text to speech</li>
-  <li>Tithe Farm Improved</li>
-  <li>Watchdog</li>
-</ul>
-
-<h3 id="removals">Removals</h3>
-<ul>
-  <li>N/A</li>
-</ul>]]></content><author><name></name></author><category term="runelite-update-tldr" /><category term="runelite," /><category term="tldr" /><summary type="html"><![CDATA[01 March 2023 RuneLite Update]]></summary></entry></feed>
+</ul>]]></content><author><name></name></author><category term="osrs-game-update-tldr" /><category term="osrs," /><category term="tldr" /><summary type="html"><![CDATA[09 March 2023 Game Update]]></summary></entry></feed>
