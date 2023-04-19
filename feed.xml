@@ -1,5 +1,145 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://safficauthon.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://safficauthon.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-04-12T13:18:28+00:00</updated><id>https://safficauthon.github.io/feed.xml</id><title type="html">blank</title><subtitle>A website to display information to the public.
-</subtitle><entry><title type="html">RuneLite Update - 12 April 2023</title><link href="https://safficauthon.github.io/blog/2023/runelite_update_2023_04_12/" rel="alternate" type="text/html" title="RuneLite Update - 12 April 2023" /><published>2023-04-12T13:02:00+00:00</published><updated>2023-04-12T13:02:00+00:00</updated><id>https://safficauthon.github.io/blog/2023/runelite_update_2023_04_12</id><content type="html" xml:base="https://safficauthon.github.io/blog/2023/runelite_update_2023_04_12/"><![CDATA[<h1 id="1914-update">1.9.14 Update</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://safficauthon.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://safficauthon.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-04-19T00:26:09+00:00</updated><id>https://safficauthon.github.io/feed.xml</id><title type="html">blank</title><subtitle>A website to display information to the public.
+</subtitle><entry><title type="html">RuneLite Update - 18 April 2023</title><link href="https://safficauthon.github.io/blog/2023/runelite_update_2023_04_18/" rel="alternate" type="text/html" title="RuneLite Update - 18 April 2023" /><published>2023-04-19T00:00:00+00:00</published><updated>2023-04-19T00:00:00+00:00</updated><id>https://safficauthon.github.io/blog/2023/runelite_update_2023_04_18</id><content type="html" xml:base="https://safficauthon.github.io/blog/2023/runelite_update_2023_04_18/"><![CDATA[<h1 id="1915-update">1.9.15 Update</h1>
+<p>18 April 2023
+<em>NO OFFICIAL RELEASE BLOG - ALL MY DOCUMENTATION</em></p>
+
+<h2 id="updates"><a href="https://github.com/runelite/runelite/commits/master">Updates</a></h2>
+<ul>
+  <li><a href="https://github.com/runelite/runelite/commit/8f218f0">Last Commit</a></li>
+</ul>
+
+<h3 id="important-stuff">Important Stuff</h3>
+<ul>
+  <li>Loot tracker: Fix toa loot value config check</li>
+</ul>
+
+<h3 id="other-changes">Other Changes</h3>
+<ul>
+  <li>API: Update 213</li>
+  <li>Clientui: Keep size when resetting client position</li>
+  <li>GPU: Check aa framebuffer status</li>
+  <li>GPU: Move uv calculation to geometry shader</li>
+  <li>GPU: Simplify face sorting comparison</li>
+  <li>HiScores: Add wilderness bosses</li>
+  <li>
+    <p>Screenshot: Fix scaling on macos</p>
+  </li>
+  <li>
+    <p>Update 213</p>
+  </li>
+  <li>Update NPC IDs to 2023-4-18</li>
+  <li>
+    <p>Update Object IDs to 2023-4-18</p>
+  </li>
+  <li>Bump for 1.9.16-SNAPSHOT</li>
+  <li>Release 1.9.15</li>
+</ul>
+
+<h2 id="plugin-hub"><a href="https://github.com/runelite/plugin-hub/commits/master">Plugin Hub</a></h2>
+<ul>
+  <li><a href="https://github.com/runelite/plugin-hub/commit/5ff047e">Last Commit</a></li>
+</ul>
+
+<h3 id="important-stuff-1">Important Stuff</h3>
+<ul>
+  <li>N/A</li>
+</ul>
+
+<h3 id="other-additions">Other Additions</h3>
+<ul>
+  <li>Aerial Tick Colors</li>
+  <li>Amazeing Chest</li>
+  <li>Dynamic Inventory Tags</li>
+  <li>Logout Timer</li>
+</ul>
+
+<h3 id="bug-fixes--small-updates">Bug Fixes / Small updates:</h3>
+<ul>
+  <li>Custom Menu Swaps</li>
+  <li>Dink</li>
+  <li>Dude, Where’s My Stuff?</li>
+  <li>MLM Upper Level Markers</li>
+  <li>Music Mask</li>
+  <li>Quest Helper</li>
+  <li>Resting</li>
+  <li>Runite Rocks</li>
+  <li>TempleOSRS</li>
+  <li>Tempoross</li>
+  <li>Ultimate Volcanic Mine</li>
+  <li>Weapon Charges</li>
+  <li>
+    <p>Wilderness Lines</p>
+  </li>
+  <li>Bump to 1.9.15</li>
+  <li>Bump to 1.9.15.1</li>
+  <li>Bump to 1.9.15.2</li>
+</ul>
+
+<h3 id="removals">Removals</h3>
+<ul>
+  <li>117hd (Reverted)</li>
+</ul>]]></content><author><name></name></author><category term="runelite-update-tldr" /><category term="runelite," /><category term="tldr" /><summary type="html"><![CDATA[18 April 2023 RuneLite Update]]></summary></entry><entry><title type="html">OSRS Update - 18 April 2023</title><link href="https://safficauthon.github.io/blog/2023/osrs_game_update_2023_04_18/" rel="alternate" type="text/html" title="OSRS Update - 18 April 2023" /><published>2023-04-18T15:19:00+00:00</published><updated>2023-04-18T15:19:00+00:00</updated><id>https://safficauthon.github.io/blog/2023/osrs_game_update_2023_04_18</id><content type="html" xml:base="https://safficauthon.github.io/blog/2023/osrs_game_update_2023_04_18/"><![CDATA[<h1 id="makeover-improvements">Makeover Improvements</h1>
+<p><a href="https://secure.runescape.com/m=news/makeover-improvements?oldschool=1">18 April 2023</a>
+<em>As we prepare for our next Game Jam, it’s time for a makeover!</em></p>
+
+<h2 id="game-jam-april-2023">Game Jam: April 2023</h2>
+<ul>
+  <li>No game update next week</li>
+  <li>First ideation day of 2023</li>
+  <li>May gazette will formally share ideations</li>
+  <li>Twitter will informally share ideations using <a href="https://twitter.com/search?q=%23OSRSGameJam">#OSRSGameJam</a></li>
+</ul>
+
+<h2 id="makeover-improvements-1">Makeover Improvements</h2>
+<ul>
+  <li>Added Emma and Suzie’s new boutique
+    <ul>
+      <li>North of Varrock Museum</li>
+    </ul>
+  </li>
+  <li>Hairstyles are no longer limited by character model type</li>
+  <li>Improved the hairstyle-changing interface</li>
+  <li>Added five new hair colors</li>
+  <li>Added several new hairstyles</li>
+</ul>
+
+<h2 id="desert-treasure-ii-beta">Desert Treasure II Beta</h2>
+<ul>
+  <li>BH &amp; DT2 betas are now closed</li>
+  <li>Next beta testing with improvements will occur in May</li>
+  <li>Concerns about power creep addressed
+    <ul>
+      <li>Nothing is set in stone yet</li>
+      <li>Still plenty of room for improvement</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="fresh-start-worlds">Fresh Start Worlds</h2>
+<ul>
+  <li>Fresh Start Worlds are now officially over</li>
+  <li>FSW accounts will transfer to the main game</li>
+  <li><a href="https://secure.runescape.com/m=hiscore_oldschool_fresh_start/overall">Final FSW account Hiscores</a>
+    <ul>
+      <li><a href="https://safficauthon.github.io/assets/img/news/2023-04-18-01-osrs-game-update/fsw_hiscores.png">Permalink</a></li>
+    </ul>
+  </li>
+  <li>Log in to claim items from GE before the transfer</li>
+</ul>
+
+<h2 id="other-changes">Other Changes</h2>
+<ul>
+  <li>PvP World Rota -&gt; Period A</li>
+  <li>Added a hint for CTC III</li>
+  <li>Added additional theme worlds for GOTR</li>
+  <li>Added Looting Bag to Slayer Rewards</li>
+  <li>Fixed effects of poison on Penance healers in BA</li>
+  <li>Added colored messages to enemy deaths in BA</li>
+  <li>Added a red message when using the wrong poison in BA</li>
+  <li>Fixed a bug causing double poison hitsplats</li>
+  <li>Boss HiScore KC minimums of 25 are now 20</li>
+  <li>Fixed a bug with music tracks during MM1</li>
+</ul>]]></content><author><name></name></author><category term="osrs-game-update-tldr" /><category term="osrs," /><category term="tldr" /><summary type="html"><![CDATA[18 April 2023 Game Update]]></summary></entry><entry><title type="html">RuneLite Update - 12 April 2023</title><link href="https://safficauthon.github.io/blog/2023/runelite_update_2023_04_12/" rel="alternate" type="text/html" title="RuneLite Update - 12 April 2023" /><published>2023-04-12T13:02:00+00:00</published><updated>2023-04-12T13:02:00+00:00</updated><id>https://safficauthon.github.io/blog/2023/runelite_update_2023_04_12</id><content type="html" xml:base="https://safficauthon.github.io/blog/2023/runelite_update_2023_04_12/"><![CDATA[<h1 id="1914-update">1.9.14 Update</h1>
 <p>12 April 2023
 <em>NO OFFICIAL RELEASE BLOG - ALL MY DOCUMENTATION</em></p>
 
@@ -625,141 +765,4 @@
 <h2 id="crack-the-clue-3">Crack the Clue 3</h2>
 <ul>
   <li>Added several hints because people gave up &amp; are bad</li>
-</ul>]]></content><author><name></name></author><category term="osrs-game-update-tldr" /><category term="osrs," /><category term="tldr" /><summary type="html"><![CDATA[22 March 2023 Game Update]]></summary></entry><entry><title type="html">RuneLite Update - 15 March 2023</title><link href="https://safficauthon.github.io/blog/2023/runelite_update_2023_03_15/" rel="alternate" type="text/html" title="RuneLite Update - 15 March 2023" /><published>2023-03-15T13:35:00+00:00</published><updated>2023-03-15T13:35:00+00:00</updated><id>https://safficauthon.github.io/blog/2023/runelite_update_2023_03_15</id><content type="html" xml:base="https://safficauthon.github.io/blog/2023/runelite_update_2023_03_15/"><![CDATA[<h1 id="1913-update">1.9.13 Update</h1>
-<p>15 March 2023
-<em>NO OFFICIAL RELEASE BLOG - ALL MY DOCUMENTATION</em></p>
-
-<h2 id="updates"><a href="https://github.com/runelite/runelite/commits/master">Updates</a></h2>
-<ul>
-  <li><a href="https://github.com/runelite/runelite/commit/c775b6d54345a717fc74b661b14ff194fb993d84">Last Commit</a></li>
-</ul>
-
-<h3 id="important-stuff">Important Stuff</h3>
-<ul>
-  <li>Ground Items: Update KBD instance despawn time</li>
-</ul>
-
-<h3 id="other-changes">Other Changes</h3>
-<ul>
-  <li>Client: Cache update 3-15-2023</li>
-  <li>Dev Tools: Add wear/tex commands</li>
-  <li>External Plugins: Fix refresh race with plugin manager</li>
-  <li>External Plugins: Remove unused session event handlers</li>
-  <li>GPI: Fix vanilla uvs with a depth offset</li>
-  <li>Ground Markers: Cap fill opacity at 255</li>
-  <li>Ping: Move unknown host exception log to debug</li>
-  <li>
-    <p>Slayer: Display infobox on task check</p>
-  </li>
-  <li>Update Item IDs to 2023-3-15</li>
-  <li>Update Item variations to 2023-3-15</li>
-  <li>Update NPC IDs to 2023-03-15-rev212</li>
-  <li>Update Object IDs to 2023-03-15-rev212</li>
-  <li>
-    <p>Update Scripts to 2023-3-15</p>
-  </li>
-  <li>Release 1.9.13</li>
-  <li>Bump for 1.9.14-SNAPSHOT</li>
-</ul>
-
-<h2 id="plugin-hub"><a href="https://github.com/runelite/plugin-hub/commits/master">Plugin Hub</a></h2>
-<ul>
-  <li><a href="https://github.com/runelite/plugin-hub/commit/21e173f4c23d4829500372059f74e121938f6f71">Last Commit</a></li>
-</ul>
-
-<h3 id="important-stuff-1">Important Stuff</h3>
-<ul>
-  <li>N/A</li>
-</ul>
-
-<h3 id="other-additions">Other Additions</h3>
-<ul>
-  <li>N/A</li>
-</ul>
-
-<h3 id="bug-fixes--small-updates">Bug Fixes / Small updates:</h3>
-<ul>
-  <li>AFK Threshold</li>
-  <li>Blue’s Prox Chat</li>
-  <li>Combat Roll</li>
-  <li>Customizable XP Drops</li>
-  <li>Emote Clue Items</li>
-  <li>Fight Caves Spawn Predictor</li>
-  <li>Max Skill Trim</li>
-  <li>NPC Idle Timer</li>
-  <li>Nylo Death Indicators</li>
-  <li>Party Defence Tracker</li>
-  <li>Resting</li>
-  <li>Smart Chat Input</li>
-  <li>Thrall Helper</li>
-  <li>
-    <p>Weapon Charges (WIP)</p>
-  </li>
-  <li>Bump to 1.9.13</li>
-</ul>
-
-<h3 id="removals">Removals</h3>
-<ul>
-  <li>NeverScapeAlone</li>
-</ul>]]></content><author><name></name></author><category term="runelite-update-tldr" /><category term="runelite," /><category term="tldr" /><summary type="html"><![CDATA[15 March 2023 RuneLite Update]]></summary></entry><entry><title type="html">OSRS Update - 15 March 2023</title><link href="https://safficauthon.github.io/blog/2023/osrs_game_update_2023_03_15/" rel="alternate" type="text/html" title="OSRS Update - 15 March 2023" /><published>2023-03-15T12:45:00+00:00</published><updated>2023-03-15T12:45:00+00:00</updated><id>https://safficauthon.github.io/blog/2023/osrs_game_update_2023_03_15</id><content type="html" xml:base="https://safficauthon.github.io/blog/2023/osrs_game_update_2023_03_15/"><![CDATA[<h1 id="the-last-of-poll-78">The Last of Poll 78</h1>
-<p><a href="https://secure.runescape.com/m=news/the-last-of-poll-78?oldschool=1">15 March 2023</a>
-<em>This week’s update includes the last of the Poll 78 changes …</em></p>
-
-<h2 id="poll-78">Poll 78</h2>
-<ul>
-  <li>33% faster MLM vein respawns</li>
-  <li>More veins in MLM southern mine area</li>
-  <li>Added a level 54 shortcut to the MLM southern area</li>
-  <li>Renamed all ore resources with what they contain
-    <ul>
-      <li><a href="https://i.imgur.com/buMpPAp.mp4">Foot pedal ore is now possible</a></li>
-      <li><a href="https://github.com/SaffiCauthon/Self-Custom_Swaps/commit/e2eeb8e73b4bdfd09e4c5ef982766fb0d508c299">Custom Swap List for Foot pedal ore</a></li>
-    </ul>
-  </li>
-  <li>Poll 79 coming soon!</li>
-</ul>
-
-<h2 id="group-ironman-fixes">Group Ironman Fixes</h2>
-<ul>
-  <li>GIM storage is now locked 10 mins before an update</li>
-  <li>Ironman tutor now has better checks for perm-IM status</li>
-  <li>Ironman tutor now has more information about UGIM</li>
-  <li>Fixed ranked GIM group sizes on HiScores</li>
-  <li>Fixed a bug about GIM Combat Achievements</li>
-</ul>
-
-<h2 id="wilderness-and-pvp-related-changes">Wilderness and PvP-related Changes</h2>
-<ul>
-  <li>Fixed area outside Venenatis’s lair to prevent abuse</li>
-  <li>Updated wilderness monsters in permanent DMM</li>
-  <li>Updated messages about target worlds</li>
-</ul>
-
-<h2 id="12th-annual-golden-gnomes">12th Annual Golden Gnomes</h2>
-<ul>
-  <li>The 12th Annual Golden Gnomes are almost here!</li>
-</ul>
-
-<h2 id="other-changes">Other Changes</h2>
-<ul>
-  <li>PvP World Rota -&gt; Period B</li>
-  <li>The Birthday Event has been removed</li>
-  <li>Added setting to remove trade option from players</li>
-  <li>Increased poison reset time from 18-&gt;54 seconds</li>
-  <li>Reverted pathfinding changes from last week
-    <ul>
-      <li>Change remains in place for Herman Caranos</li>
-    </ul>
-  </li>
-  <li>V-Armour smelting boost now works with Perfect Gold ore</li>
-  <li>Instanced KBD Lair loot now stays for longer</li>
-  <li>Fixed a typo in Ecu Key’s examination text</li>
-  <li>Removed quotes in the text within the prayer book</li>
-  <li>Full experience now applied to hardwood at Etceteria</li>
-  <li>Can now right-click messages from moderators for info</li>
-</ul>
-
-<h2 id="crack-the-clue-3">Crack the Clue 3</h2>
-<ul>
-  <li>Added several hints because people gave up &amp; are bad</li>
-</ul>]]></content><author><name></name></author><category term="osrs-game-update-tldr" /><category term="osrs," /><category term="tldr" /><summary type="html"><![CDATA[15 March 2023 Game Update]]></summary></entry></feed>
+</ul>]]></content><author><name></name></author><category term="osrs-game-update-tldr" /><category term="osrs," /><category term="tldr" /><summary type="html"><![CDATA[22 March 2023 Game Update]]></summary></entry></feed>
