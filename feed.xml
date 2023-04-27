@@ -1,5 +1,96 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://safficauthon.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://safficauthon.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-04-19T00:26:09+00:00</updated><id>https://safficauthon.github.io/feed.xml</id><title type="html">blank</title><subtitle>A website to display information to the public.
-</subtitle><entry><title type="html">RuneLite Update - 18 April 2023</title><link href="https://safficauthon.github.io/blog/2023/runelite_update_2023_04_18/" rel="alternate" type="text/html" title="RuneLite Update - 18 April 2023" /><published>2023-04-19T00:00:00+00:00</published><updated>2023-04-19T00:00:00+00:00</updated><id>https://safficauthon.github.io/blog/2023/runelite_update_2023_04_18</id><content type="html" xml:base="https://safficauthon.github.io/blog/2023/runelite_update_2023_04_18/"><![CDATA[<h1 id="1915-update">1.9.15 Update</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://safficauthon.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://safficauthon.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-04-27T13:27:05+00:00</updated><id>https://safficauthon.github.io/feed.xml</id><title type="html">blank</title><subtitle>A website to display information to the public.
+</subtitle><entry><title type="html">RuneLite Update - 27 April 2023</title><link href="https://safficauthon.github.io/blog/2023/runelite_update_2023_04_27/" rel="alternate" type="text/html" title="RuneLite Update - 27 April 2023" /><published>2023-04-27T12:59:00+00:00</published><updated>2023-04-27T12:59:00+00:00</updated><id>https://safficauthon.github.io/blog/2023/runelite_update_2023_04_27</id><content type="html" xml:base="https://safficauthon.github.io/blog/2023/runelite_update_2023_04_27/"><![CDATA[<h1 id="19153-update">1.9.15.3 Update</h1>
+<p>27 April 2023
+<em>NO OFFICIAL RELEASE BLOG - ALL MY DOCUMENTATION</em></p>
+
+<h2 id="updates"><a href="https://github.com/runelite/runelite/commits/master">Updates</a></h2>
+<ul>
+  <li><a href="https://github.com/runelite/runelite/commit/fd8a112">Last Commit</a></li>
+</ul>
+
+<h3 id="important-stuff">Important Stuff</h3>
+<ul>
+  <li>Menu Swapper: Add object walk here swap</li>
+  <li>Menu Swapper: Use submenus for object swaps</li>
+  <li>RuneLite Client: Add –insecure-write-credentials</li>
+  <li>Timers: Add Heal Group cooldown timer</li>
+</ul>
+
+<h3 id="other-changes">Other Changes</h3>
+<ul>
+  <li>API: Add frame cycle to actorspotanim and dynamicobject</li>
+  <li>API: Fix SpriteIDs from April 2023 updates</li>
+  <li>Cache: Rename ambient sound fields</li>
+  <li>Client: Log loaded local rtconf contents</li>
+  <li>Clues: Include all combat bracelet variants</li>
+  <li>External Plugins: Change support link to plugin hub readme</li>
+  <li>Fishing: Add Camdozaal fishing spots</li>
+  <li>Game: Fix isDying for Runite golems</li>
+  <li>Item Charges: Add Forgotten brew</li>
+  <li>Item Charges: Fix Ring of forging breaking being off by one</li>
+  <li>Mining: Update MLM ore-vein respawn times</li>
+  <li>Roof Removal: Add Camelot Castle override</li>
+  <li>Roof Removal: Add Karuulm Slayer Dungeon overrides</li>
+  <li>Skill Calculator: Fix Slimy Eel experience</li>
+  <li>Woodcutting: Add farming guild redwood tree</li>
+</ul>
+
+<h2 id="plugin-hub"><a href="https://github.com/runelite/plugin-hub/commits/master">Plugin Hub</a></h2>
+<ul>
+  <li><a href="https://github.com/runelite/plugin-hub/commit/997d8c5">Last Commit</a></li>
+</ul>
+
+<h3 id="important-stuff-1">Important Stuff</h3>
+<ul>
+  <li>BA Minigame</li>
+</ul>
+
+<h3 id="other-additions">Other Additions</h3>
+<ul>
+  <li>Combat Logout Timer</li>
+  <li>Companion Pet</li>
+  <li>Dry Streak</li>
+  <li>GemTracker</li>
+  <li>Hitsplat Tracker</li>
+  <li>Lizardman Shaman Minion Alert</li>
+</ul>
+
+<h3 id="bug-fixes--small-updates">Bug Fixes / Small updates:</h3>
+<ul>
+  <li>Animation Transmog</li>
+  <li>Bot Detector</li>
+  <li>Combat Roll</li>
+  <li>DMWatch</li>
+  <li>Dynamic Inventory Tags</li>
+  <li>Fashionscape</li>
+  <li>Health Notifications</li>
+  <li>Instant Inventory</li>
+  <li>Notification Panel</li>
+  <li>Nylo Death Indicators</li>
+  <li>PC Rewards</li>
+  <li>Pet Info</li>
+  <li>PVP Performance Tracker</li>
+  <li>Tick Timestamp</li>
+  <li>Tombs of Amascut</li>
+  <li>Unranked KC Tracker</li>
+  <li>Visual Sounds</li>
+  <li>Weapon Animation Replacer</li>
+  <li>Wilderness Player Alarm</li>
+  <li>
+    <p>World Finder</p>
+  </li>
+  <li>Packager: Remove getVar(VarPlayer) from disallowed-apis</li>
+  <li>Template Plugin: Remove support from runelite-plugin.properties</li>
+  <li>
+    <p>Template Plugin: Use latest.release</p>
+  </li>
+  <li>Bump to 1.9.15.3</li>
+</ul>
+
+<h3 id="removals">Removals</h3>
+<ul>
+  <li>ChatClip</li>
+</ul>]]></content><author><name></name></author><category term="runelite-update-tldr" /><category term="runelite," /><category term="tldr" /><summary type="html"><![CDATA[27 April 2023 RuneLite Update]]></summary></entry><entry><title type="html">RuneLite Update - 18 April 2023</title><link href="https://safficauthon.github.io/blog/2023/runelite_update_2023_04_18/" rel="alternate" type="text/html" title="RuneLite Update - 18 April 2023" /><published>2023-04-19T00:00:00+00:00</published><updated>2023-04-19T00:00:00+00:00</updated><id>https://safficauthon.github.io/blog/2023/runelite_update_2023_04_18</id><content type="html" xml:base="https://safficauthon.github.io/blog/2023/runelite_update_2023_04_18/"><![CDATA[<h1 id="1915-update">1.9.15 Update</h1>
 <p>18 April 2023
 <em>NO OFFICIAL RELEASE BLOG - ALL MY DOCUMENTATION</em></p>
 
@@ -700,69 +791,4 @@
 <h3 id="removals">Removals</h3>
 <ul>
   <li>N/A</li>
-</ul>]]></content><author><name></name></author><category term="runelite-update-tldr" /><category term="runelite," /><category term="tldr" /><summary type="html"><![CDATA[22 March 2023 RuneLite Update]]></summary></entry><entry><title type="html">OSRS Update - 22 March 2023</title><link href="https://safficauthon.github.io/blog/2023/osrs_game_update_2023_03_22/" rel="alternate" type="text/html" title="OSRS Update - 22 March 2023" /><published>2023-03-22T13:52:00+00:00</published><updated>2023-03-22T13:52:00+00:00</updated><id>https://safficauthon.github.io/blog/2023/osrs_game_update_2023_03_22</id><content type="html" xml:base="https://safficauthon.github.io/blog/2023/osrs_game_update_2023_03_22/"><![CDATA[<h1 id="quest-speedrunnings-final-batch">Quest Speedrunning’s Final Batch</h1>
-<p><a href="https://secure.runescape.com/m=news/quest-speedrunnings-final-batch?oldschool=1">22 March 2023</a>
-<em>Attention speedy ‘Scapers …</em></p>
-
-<h2 id="quest-speedrunning-final-batch">Quest Speedrunning Final Batch</h2>
-<ul>
-  <li>The last “promised” QSR update</li>
-  <li>Added DS2 &amp; BKF to QSR Worlds</li>
-  <li>Added Diamond Times &amp; Trophy
-    <ul>
-      <li>No additional points</li>
-      <li>Cosmetic only</li>
-      <li>Trophy requires all QSR diamond times</li>
-    </ul>
-  </li>
-</ul>
-
-<h2 id="other-changes">Other Changes</h2>
-<ul>
-  <li>PvP World Rota -&gt; Period A</li>
-  <li>Adjusted desert protection values on items
-    <ul>
-      <li>Buff to serveral items</li>
-      <li>Increased time without consuming waterskins</li>
-    </ul>
-  </li>
-  <li>Added settings to remove accounts from ignore list
-    <ul>
-      <li>Lists clear once a day</li>
-      <li>One setting for banned accounts</li>
-      <li>One setting for muted accounts</li>
-    </ul>
-  </li>
-  <li>Added option in TOA party to promote to leader</li>
-  <li>Disabled bond redemption before a server reboot</li>
-  <li>Increased wander range of several wilderness NPCs</li>
-  <li>Damage at Wintertodt now stops fletching animation</li>
-  <li>Added several Canifis boots to F2P
-    <ul>
-      <li>Gloves from the same shop were already F2P</li>
-    </ul>
-  </li>
-  <li>Changed the Cemetery Teleport
-    <ul>
-      <li>Now only shows a warning if you have runes</li>
-    </ul>
-  </li>
-  <li>Removed confirmation for gold tiara on furnace
-    <ul>
-      <li>Only sends interface if multiple moulds</li>
-    </ul>
-  </li>
-  <li>Fixed a typo in the miniquest journal</li>
-  <li>Fixed graphical issue with 10th Birthday Balloons</li>
-</ul>
-
-<h2 id="12th-annual-golden-gnomes">12th Annual Golden Gnomes</h2>
-<ul>
-  <li>The 12th Annual Golden Gnomes are almost here!</li>
-  <li>17:00 GMT, Friday, March 24th livestream</li>
-</ul>
-
-<h2 id="crack-the-clue-3">Crack the Clue 3</h2>
-<ul>
-  <li>Added several hints because people gave up &amp; are bad</li>
-</ul>]]></content><author><name></name></author><category term="osrs-game-update-tldr" /><category term="osrs," /><category term="tldr" /><summary type="html"><![CDATA[22 March 2023 Game Update]]></summary></entry></feed>
+</ul>]]></content><author><name></name></author><category term="runelite-update-tldr" /><category term="runelite," /><category term="tldr" /><summary type="html"><![CDATA[22 March 2023 RuneLite Update]]></summary></entry></feed>
